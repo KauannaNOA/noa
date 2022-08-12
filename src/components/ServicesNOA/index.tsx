@@ -100,7 +100,7 @@ export default function ServicesNOA() {
                 <ul>
                   <li>
                     <Circle className={styles.dots}/>
-                    <span>Botox</span> 
+                    <span>Toxina botulínica</span> 
                   </li>
                   <li>
                     <Circle className={styles.dots}/>
